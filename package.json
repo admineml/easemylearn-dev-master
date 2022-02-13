@@ -16,7 +16,7 @@
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
     "agenda": "^3.1.0",
-    "ajv": "6.3.0",
+    "ajv": "6.12.3",
     "angular-calendar": "0.26.4",
     "angular-font-awesome": "^3.1.2",
     "angular-pipes": "^8.0.0",
