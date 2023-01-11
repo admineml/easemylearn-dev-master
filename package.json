@@ -65,7 +65,7 @@
     "jquery": "^3.4.1",
     "jquery-validation": "1.17.0",
     "jqvmap": "1.5.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.14",
     "mediasoup": "^2.2.3",
     "mediasoup-client": "^3.3.12",
